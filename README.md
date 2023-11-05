@@ -1,10 +1,10 @@
-#Opintoseurantajärjestelmä
+# Opintoseurantajärjestelmä #
 HY:n Tietokannat ja web-ohjelmointi -kurssin harjoitustyö
 
-##Kuvaus
+## Kuvaus ##
 Sovelluksen tarkoituksena on pitää kirjaa eri kurssien opintotehtävistä. Sovellus laskee kurssitehtävien vaatiman laskelmallisen ajan kurssin laajuudesta, kurssin kokokonaispisteistä ja opintotehtävän pisteiden määrästä.
 
-##Ominaisuudet
+## Ominaisuudet ##
 * Käyttäjä voi luoda uuden käyttäjätunnuksen
 * Käyttäjä voi kirjautua sisään käyttäjätunnuksella ja salasanalla
 * Käyttäjä voi lisätä sovellukseen kursseja ja kurssitehtäviä
